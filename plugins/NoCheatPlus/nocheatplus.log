@@ -1,0 +1,236 @@
+24-10-15 05:54:57 [INFO] Logger started.
+24-10-15 05:54:57 [INFO] Logging system initialized.
+24-10-15 05:54:57 [INFO] Detected Minecraft version: 1.20.6
+24-10-15 05:55:06 [WARNING] Running in Bukkit-API-only mode (1.20.6-2233-0d6766e (MC: 1.20.6)). If this is not intended, please check for updates and consider to request support.
+24-10-15 05:55:06 [WARNING]  Check for updates and support at BukkitDev: https://dev.bukkit.org/server-mods/nocheatplus/
+24-10-15 05:55:06 [WARNING]  Development builds (unsupported by the Bukkit Staff, use at your own risk): https://ci.md-5.net/job/NoCheatPlus/changes
+24-10-15 05:55:06 [WARNING] Bukkit-API-only mode: Some features will likely not function properly, performance might suffer.
+24-10-15 05:55:06 [INFO] McAccess set to: 1.4.6-1.11.2|? / Bukkit-API
+24-10-15 05:55:06 [INFO] Added block-info for Minecraft 1.5 blocks.
+24-10-15 05:55:06 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+24-10-15 05:55:06 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+24-10-15 05:55:06 [INFO] Added block-info for Minecraft 1.8 blocks.
+24-10-15 05:55:06 [INFO] Added block-info for Minecraft 1.9 blocks.
+24-10-15 05:55:06 [INFO] Added block-info for Minecraft 1.10 blocks.
+24-10-15 05:55:06 [INFO] Added block-info for Minecraft 1.11 blocks.
+24-10-15 05:55:06 [INFO] Added block-info for Minecraft 1.12 blocks.
+24-10-15 05:55:06 [INFO] Update block-info: WATER_LILY block shape patch for multi client protocol support around 1.7.x - 1.11.x.
+24-10-15 05:55:06 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+24-10-15 05:55:06 [INFO] Packet level access: ProtocolLib is not available.
+24-10-15 05:55:06 [INFO] Force disable FastHeal on Minecraft 1.9 and later.
+24-10-15 05:55:06 [INFO] Version 3.16.0-RC-sMD5NET-b1134 is enabled.
+24-10-15 05:55:07 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.stats.Counters
+24-10-15 05:55:07 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.checks.workaround.WRPT
+24-10-15 05:55:07 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.checks.moving.location.tracking.LocationTrace$TraceEntryPool
+24-10-15 05:55:07 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.utilities.entity.PassengerUtil
+24-10-15 05:55:07 [INFO] [GenericInstanceRegistry] Registered for itself: java.util.Random
+24-10-15 05:55:07 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.compat.IBridgeCrossPlugin: fr.neatmonster.nocheatplus.compat.meta.BridgeCrossPlugin
+24-10-15 05:55:07 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.compat.MCAccess: fr.neatmonster.nocheatplus.compat.bukkit.MCAccessBukkit
+24-10-15 05:55:07 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.utilities.map.BlockCache: fr.neatmonster.nocheatplus.compat.bukkit.BlockCacheBukkit
+24-10-15 05:55:07 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.components.modifier.IAttributeAccess: fr.neatmonster.nocheatplus.compat.bukkit.BukkitAttributeAccess
+24-10-15 05:55:07 [INFO] Could not register an instance for: fr.neatmonster.nocheatplus.components.entity.IEntityAccessLastPositionAndLook
+24-10-15 05:55:07 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.components.entity.IEntityAccessVehicle: fr.neatmonster.nocheatplus.compat.bukkit.EntityAccessVehicleMultiPassenger
+24-10-15 05:55:07 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.checks.moving.util.AuxMoving
+24-10-15 05:55:07 [INFO] Added hook: AllViolations(NCP) [1.0].
+24-10-15 05:55:07 [WARNING] The block breaking data is incomplete, default to allow instant breaking:
+--- Missing entries -------------------------------
+* MISSING (WHEAT) 
+* MISSING (SIGN / SOLID+GROUND) 
+* MISSING (WOOD_DOOR / SOLID+GROUND) 
+* MISSING (IRON_DOOR / SOLID+GROUND) 
+* MISSING (SUGAR_CANE) 
+* MISSING (CAKE / SOLID+GROUND) 
+* MISSING (BED / SOLID+GROUND) 
+* MISSING (DIODE) 
+* MISSING (NETHER_STALK) 
+* MISSING (BREWING_STAND_ITEM / SOLID+GROUND) 
+* MISSING (CAULDRON_ITEM / SOLID+GROUND) 
+* MISSING (FLOWER_POT_ITEM) 
+* MISSING (SKULL_ITEM) 
+* MISSING (REDSTONE_COMPARATOR) 
+* MISSING (BANNER / SOLID+GROUND) 
+* MISSING (SPRUCE_DOOR_ITEM / SOLID+GROUND) 
+* MISSING (BIRCH_DOOR_ITEM / SOLID+GROUND) 
+* MISSING (JUNGLE_DOOR_ITEM / SOLID+GROUND) 
+* MISSING (ACACIA_DOOR_ITEM / SOLID+GROUND) 
+* MISSING (DARK_OAK_DOOR_ITEM / SOLID+GROUND) 
+24-10-15 05:55:07 [INFO] Post-enable running...
+24-10-15 05:55:07 [INFO] Post-enable finished.
+24-10-15 05:55:07 [INFO] ---- Version information ----
+#### Server ####
+1.20.6-2233-0d6766e ~MC: 1.20.6~
+  detected: 1.20.6
+#### NoCheatPlus ####
+Plugin: 3.16.0-RC-sMD5NET-b1134
+MCAccess: 1.4.6-1.11.2|? / Bukkit-API
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2 | BlocksMC1_8 | BlocksMC1_9 | BlocksMC1_10 | BlocksMC1_11 | BlocksMC1_12
+  checks: FastConsume | Gutenberg | HotFixFallingBlockPortalEnter
+  defaults: pvpKnockBackVelocity
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ViaVersion v5.0.3
+24-10-15 06:10:32 [INFO] Removed hook: AllViolations(NCP) [1.0].
+24-10-15 06:10:32 [FINE] | cancel.dead 0 | cancel.offline 0 | block.interact.look.current 741 (741/0) | block.interact.look.flying.first 0 | block.interact.look.flying.other 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move 14844 (14844/0) |
+24-10-15 06:10:32 [INFO] [GenericInstanceRegistry] Registry cleared.
+24-10-15 06:10:59 [INFO] Logger started.
+24-10-15 06:10:59 [INFO] Logging system initialized.
+24-10-15 06:10:59 [INFO] Detected Minecraft version: 1.20.6
+24-10-15 06:11:10 [WARNING] Running in Bukkit-API-only mode (1.20.6-2233-0d6766e (MC: 1.20.6)). If this is not intended, please check for updates and consider to request support.
+24-10-15 06:11:10 [WARNING]  Check for updates and support at BukkitDev: https://dev.bukkit.org/server-mods/nocheatplus/
+24-10-15 06:11:10 [WARNING]  Development builds (unsupported by the Bukkit Staff, use at your own risk): https://ci.md-5.net/job/NoCheatPlus/changes
+24-10-15 06:11:10 [WARNING] Bukkit-API-only mode: Some features will likely not function properly, performance might suffer.
+24-10-15 06:11:10 [INFO] McAccess set to: 1.4.6-1.11.2|? / Bukkit-API
+24-10-15 06:11:10 [INFO] Added block-info for Minecraft 1.5 blocks.
+24-10-15 06:11:10 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+24-10-15 06:11:10 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+24-10-15 06:11:10 [INFO] Added block-info for Minecraft 1.8 blocks.
+24-10-15 06:11:10 [INFO] Added block-info for Minecraft 1.9 blocks.
+24-10-15 06:11:10 [INFO] Added block-info for Minecraft 1.10 blocks.
+24-10-15 06:11:10 [INFO] Added block-info for Minecraft 1.11 blocks.
+24-10-15 06:11:10 [INFO] Added block-info for Minecraft 1.12 blocks.
+24-10-15 06:11:10 [INFO] Update block-info: WATER_LILY block shape patch for multi client protocol support around 1.7.x - 1.11.x.
+24-10-15 06:11:10 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+24-10-15 06:11:10 [INFO] Packet level access: ProtocolLib is not available.
+24-10-15 06:11:10 [INFO] Force disable FastHeal on Minecraft 1.9 and later.
+24-10-15 06:11:10 [INFO] Version 3.16.0-RC-sMD5NET-b1134 is enabled.
+24-10-15 06:11:11 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.stats.Counters
+24-10-15 06:11:11 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.checks.workaround.WRPT
+24-10-15 06:11:11 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.checks.moving.location.tracking.LocationTrace$TraceEntryPool
+24-10-15 06:11:11 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.utilities.entity.PassengerUtil
+24-10-15 06:11:11 [INFO] [GenericInstanceRegistry] Registered for itself: java.util.Random
+24-10-15 06:11:11 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.compat.IBridgeCrossPlugin: fr.neatmonster.nocheatplus.compat.meta.BridgeCrossPlugin
+24-10-15 06:11:11 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.compat.MCAccess: fr.neatmonster.nocheatplus.compat.bukkit.MCAccessBukkit
+24-10-15 06:11:11 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.utilities.map.BlockCache: fr.neatmonster.nocheatplus.compat.bukkit.BlockCacheBukkit
+24-10-15 06:11:11 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.components.modifier.IAttributeAccess: fr.neatmonster.nocheatplus.compat.bukkit.BukkitAttributeAccess
+24-10-15 06:11:11 [INFO] Could not register an instance for: fr.neatmonster.nocheatplus.components.entity.IEntityAccessLastPositionAndLook
+24-10-15 06:11:11 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.components.entity.IEntityAccessVehicle: fr.neatmonster.nocheatplus.compat.bukkit.EntityAccessVehicleMultiPassenger
+24-10-15 06:11:11 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.checks.moving.util.AuxMoving
+24-10-15 06:11:11 [INFO] Added hook: AllViolations(NCP) [1.0].
+24-10-15 06:11:11 [WARNING] The block breaking data is incomplete, default to allow instant breaking:
+--- Missing entries -------------------------------
+* MISSING (WHEAT) 
+* MISSING (SIGN / SOLID+GROUND) 
+* MISSING (WOOD_DOOR / SOLID+GROUND) 
+* MISSING (IRON_DOOR / SOLID+GROUND) 
+* MISSING (SUGAR_CANE) 
+* MISSING (CAKE / SOLID+GROUND) 
+* MISSING (BED / SOLID+GROUND) 
+* MISSING (DIODE) 
+* MISSING (NETHER_STALK) 
+* MISSING (BREWING_STAND_ITEM / SOLID+GROUND) 
+* MISSING (CAULDRON_ITEM / SOLID+GROUND) 
+* MISSING (FLOWER_POT_ITEM) 
+* MISSING (SKULL_ITEM) 
+* MISSING (REDSTONE_COMPARATOR) 
+* MISSING (BANNER / SOLID+GROUND) 
+* MISSING (SPRUCE_DOOR_ITEM / SOLID+GROUND) 
+* MISSING (BIRCH_DOOR_ITEM / SOLID+GROUND) 
+* MISSING (JUNGLE_DOOR_ITEM / SOLID+GROUND) 
+* MISSING (ACACIA_DOOR_ITEM / SOLID+GROUND) 
+* MISSING (DARK_OAK_DOOR_ITEM / SOLID+GROUND) 
+24-10-15 06:11:11 [INFO] Post-enable running...
+24-10-15 06:11:11 [INFO] Post-enable finished.
+24-10-15 06:11:11 [INFO] ---- Version information ----
+#### Server ####
+1.20.6-2233-0d6766e ~MC: 1.20.6~
+  detected: 1.20.6
+#### NoCheatPlus ####
+Plugin: 3.16.0-RC-sMD5NET-b1134
+MCAccess: 1.4.6-1.11.2|? / Bukkit-API
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2 | BlocksMC1_8 | BlocksMC1_9 | BlocksMC1_10 | BlocksMC1_11 | BlocksMC1_12
+  checks: FastConsume | Gutenberg | HotFixFallingBlockPortalEnter
+  defaults: pvpKnockBackVelocity
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ViaVersion v5.0.3
+24-10-15 06:14:48 [INFO] Vinhp35 failed Direction: tried to interact with a block out of their line of sight. VL 11.
+24-10-15 06:15:32 [INFO] Vinhp35 failed Direction: tried to interact with a block out of their line of sight. VL 87.
+24-10-15 06:16:20 [INFO] Vinhp35 failed Direction: tried to interact with a block out of their line of sight. VL 223.
+24-10-15 06:21:53 [INFO] Vinhp35 failed Direction: tried to interact with a block out of their line of sight. VL 321.
+24-10-15 06:36:02 [INFO] Vinhp35 failed Passable: moved into a block ([blocktype]) from 23.20, 84.07, 2.23 to 23.23, 83.99, 2.21 distance 0.09 . VL 11.
+24-10-15 06:36:07 [INFO] Vinhp35 failed Passable: moved into a block ([blocktype]) from 23.33, 84.07, 2.20 to 23.33, 83.99, 2.20 distance 0.08 . VL 37.
+24-10-15 06:36:09 [INFO] Vinhp35 failed Passable: moved into a block ([blocktype]) from 23.33, 84.07, 2.20 to 23.33, 83.99, 2.20 distance 0.08 . VL 50.
+24-10-15 06:36:14 [INFO] Vinhp35 failed Passable: moved into a block ([blocktype]) from 23.33, 84.07, 2.20 to 23.33, 83.99, 2.20 distance 0.08 . VL 76.
+24-10-15 06:36:19 [INFO] Vinhp35 failed Passable: moved into a block ([blocktype]) from 23.33, 84.07, 2.20 to 23.33, 83.99, 2.20 distance 0.08 . VL 106.
+24-10-15 06:36:27 [WARNING] [MOVING] [Vinhp35]  TP PLUGIN (set back was overridden): Location{world=CraftWorld{name=world},x=27.470868391146634,y=84.0,z=-8.603228732859336,pitch=5.5502386,yaw=0.060890146}
+24-10-15 06:36:34 [INFO] Vinhp35 failed Passable: moved into a block ([blocktype]) from 27.82, 84.12, 1.55 to 27.82, 83.68, 1.85 distance 0.53 . VL 99.
+24-10-15 06:36:40 [INFO] Vinhp35 failed Passable: moved into a block ([blocktype]) from 23.69, 84.00, 0.84 to 23.58, 83.92, 1.08 distance 0.27 . VL 55.
+24-10-15 06:37:00 [INFO] Vinhp35 failed Passable: moved into a block ([blocktype]) from 28.10, 84.00, 1.42 to 28.11, 83.92, 1.76 distance 0.35 . VL 19.
+24-10-15 06:37:05 [INFO] Vinhp35 failed Passable: moved into a block ([blocktype]) from 28.09, 84.00, 1.58 to 28.09, 83.92, 1.55 distance 0.09 . VL 44.
+24-10-15 06:37:06 [INFO] Vinhp35 failed Passable: moved into a block ([blocktype]) from 28.21, 84.00, 1.42 to 28.21, 83.92, 1.38 distance 0.09 . VL 50.
+24-10-15 06:37:10 [INFO] Vinhp35 failed Passable: moved into a block ([blocktype]) from 29.38, 84.00, 1.52 to 29.37, 83.92, 1.78 distance 0.27 . VL 32.
+24-10-15 06:37:29 [INFO] Vinhp35 failed Passable: moved into a block ([blocktype]) from 28.09, 84.00, 12.99 to 28.09, 83.92, 13.03 distance 0.09 . VL 10.
+24-10-15 06:37:33 [INFO] phapmy failed Passable: moved into a block ([blocktype]) from 24.61, 83.00, 13.28 to 24.76, 83.50, 13.32 distance 0.52 . VL 10.
+24-10-15 06:37:38 [INFO] phapmy failed Passable: moved into a block ([blocktype]) from 26.99, 84.00, 12.82 to 27.26, 83.92, 13.03 distance 0.34 . VL 12.
+24-10-15 06:38:04 [INFO] Vinhp35 failed Passable: moved into a block ([blocktype]) from 3.47, 83.00, 14.51 to 3.47, 82.94, 14.51 distance 0.06 . VL 10.
+24-10-15 06:38:09 [INFO] Vinhp35 failed Passable: moved into a block ([blocktype]) from 2.26, 83.00, 14.89 to 2.23, 82.94, 14.95 distance 0.10 . VL 17.
+24-10-15 06:38:24 [INFO] Vinhp35 failed Passable: moved into a block ([blocktype]) from 23.35, 83.00, 2.34 to 23.42, 83.50, 2.21 distance 0.52 . VL 11.
+24-10-15 06:38:29 [INFO] Vinhp35 failed Passable: moved into a block ([blocktype]) from 26.44, 83.00, 3.36 to 26.40, 83.50, 3.25 distance 0.51 . VL 18.
+24-10-15 06:38:36 [INFO] Vinhp35 failed Passable: moved into a block ([blocktype]) from 22.75, 83.00, 2.38 to 22.58, 83.50, 2.10 distance 0.60 . VL 19.
+24-10-15 06:38:43 [INFO] Vinhp35 failed Passable: moved into a block ([blocktype]) from 21.47, 84.00, -0.58 to 21.26, 83.92, -0.43 distance 0.27 . VL 24.
+24-10-15 06:38:48 [INFO] Vinhp35 failed Passable: moved into a block ([blocktype]) from 21.25, 84.00, -0.06 to 21.24, 83.92, -0.03 distance 0.09 . VL 44.
+24-10-15 06:38:49 [INFO] Vinhp35 failed Passable: moved into a block ([blocktype]) from 21.19, 84.00, 0.16 to 21.18, 83.92, 0.20 distance 0.09 . VL 50.
+24-10-15 06:38:54 [INFO] Vinhp35 failed Passable: moved into a block ([blocktype]) from 21.02, 84.00, 0.69 to 21.01, 83.92, 0.72 distance 0.09 . VL 63.
+24-10-15 06:38:59 [INFO] Vinhp35 failed Passable: moved into a block ([blocktype]) from 20.65, 84.00, 1.18 to 20.63, 83.92, 1.22 distance 0.09 . VL 73.
+24-10-15 06:39:25 [INFO] Vinhp35 failed Passable: moved into a block ([blocktype]) from 2.58, 83.00, 15.18 to 2.51, 82.94, 15.27 distance 0.13 . VL 11.
+24-10-15 06:39:30 [INFO] Vinhp35 failed Passable: moved into a block ([blocktype]) from 2.53, 83.00, 14.44 to 2.42, 82.94, 14.43 distance 0.13 . VL 30.
+24-10-15 06:39:39 [INFO] Vinhp35 failed Passable: moved into a block ([blocktype]) from 2.00, 83.00, 14.29 to 2.00, 82.94, 14.29 distance 0.06 . VL 48.
+24-10-15 06:39:40 [INFO] Vinhp35 failed Passable: moved into a block ([blocktype]) from 2.13, 83.00, 14.56 to 2.16, 82.94, 14.62 distance 0.10 . VL 50.
+24-10-15 06:39:45 [INFO] Vinhp35 failed Passable: moved into a block ([blocktype]) from 3.02, 83.00, 14.67 to 3.09, 82.94, 14.65 distance 0.10 . VL 63.
+24-10-15 06:39:51 [INFO] Vinhp35 failed Passable: moved into a block ([blocktype]) from 2.12, 83.12, 16.51 to 1.87, 82.94, 16.67 distance 0.35 . VL 21.
+24-10-15 06:39:56 [INFO] Vinhp35 failed Passable: moved into a block ([blocktype]) from 2.87, 83.00, 14.84 to 2.81, 82.94, 14.75 distance 0.13 . VL 38.
+24-10-15 06:39:59 [INFO] Vinhp35 failed Passable: moved into a block ([blocktype]) from 1.06, 83.00, 15.01 to 1.14, 82.94, 14.95 distance 0.13 . VL 50.
+24-10-15 06:40:05 [INFO] Vinhp35 failed Passable: moved into a block ([blocktype]) from 20.64, 83.00, 2.26 to 20.74, 83.50, 2.04 distance 0.56 . VL 27.
+24-10-15 06:40:07 [INFO] Vinhp35 failed Passable: moved into a block ([blocktype]) from 20.69, 83.00, 2.14 to 20.76, 83.50, 2.01 distance 0.52 . VL 51.
+24-10-15 06:40:10 [INFO] Vinhp35 failed Passable: moved into a block ([blocktype]) from 20.64, 83.00, 1.77 to 20.71, 83.50, 1.53 distance 0.56 . VL 42.
+24-10-15 06:40:15 [INFO] Vinhp35 failed Passable: moved into a block ([blocktype]) from 20.27, 83.00, 1.40 to 20.33, 83.50, 1.26 distance 0.52 . VL 33.
+24-10-15 06:40:20 [INFO] Vinhp35 failed Passable: moved into a block ([blocktype]) from 20.14, 83.00, 1.33 to 20.20, 83.50, 1.19 distance 0.52 . VL 26.
+24-10-15 06:40:26 [INFO] Vinhp35 failed Passable: moved into a block ([blocktype]) from 21.00, 84.00, -0.48 to 20.83, 83.92, -0.19 distance 0.35 . VL 14.
+24-10-15 06:40:34 [INFO] Vinhp35 failed Passable: moved into a block ([blocktype]) from 24.01, 84.12, 14.67 to 23.92, 83.68, 14.91 distance 0.51 . VL 19.
+24-10-15 06:40:39 [INFO] Vinhp35 failed Passable: moved into a block ([blocktype]) from 26.61, 84.00, 12.87 to 26.60, 83.92, 12.83 distance 0.09 . VL 39.
+24-10-15 06:40:44 [INFO] Vinhp35 failed Passable: moved into a block ([blocktype]) from 21.39, 83.00, 2.45 to 21.54, 83.50, 2.15 distance 0.60 . VL 16.
+24-10-15 06:40:49 [INFO] Vinhp35 failed Passable: moved into a block ([blocktype]) from 19.70, 83.12, 0.45 to 19.71, 83.50, 0.27 distance 0.42 . VL 34.
+24-10-15 06:40:52 [INFO] Vinhp35 failed SurvivalFly: tried to move: 19.69, 83.00, 1.18 -> 19.79, 83.50, 1.12, d=0.51 (vdistrel). VL 8.
+24-10-15 06:40:52 [INFO] Vinhp35 failed Passable: moved into a block ([blocktype]) from 19.69, 83.00, 1.18 to 19.80, 83.50, 1.23 distance 0.51 . VL 51.
+24-10-15 06:40:54 [INFO] Vinhp35 failed Passable: moved into a block ([blocktype]) from 21.05, 83.00, 2.31 to 21.10, 83.50, 2.24 distance 0.51 . VL 46.
+24-10-15 06:41:33 [INFO] Vinhp35 failed Passable: moved into a block ([blocktype]) from 0.30, 83.00, 9.70 to 0.39, 83.50, 9.77 distance 0.51 . VL 11.
+24-10-15 06:41:35 [INFO] Vinhp35 failed SurvivalFly: tried to move: 0.30, 83.00, 9.70 -> 0.45, 83.50, 9.70, d=0.52 (vdistrel). VL 23.
+24-10-15 06:41:38 [INFO] Vinhp35 failed Passable: moved into a block ([blocktype]) from 18.52, 84.02, 12.69 to 18.79, 83.80, 12.83 distance 0.38 . VL 16.
+24-10-15 06:42:18 [INFO] phapmy failed Passable: moved into a block ([blocktype]) from 26.98, 84.00, 1.39 to 27.00, 83.92, 1.36 distance 0.09 . VL 10.
+24-10-15 06:42:22 [INFO] Vinhp35 failed Passable: moved into a block ([blocktype]) from 27.49, 84.00, 1.65 to 27.54, 83.92, 1.70 distance 0.11 . VL 11.
+24-10-15 06:42:23 [INFO] phapmy failed Passable: moved into a block ([blocktype]) from 26.99, 84.00, 1.37 to 26.96, 83.92, 1.35 distance 0.09 . VL 40.
+24-10-15 06:42:24 [INFO] phapmy failed Passable: moved into a block ([blocktype]) from 26.99, 84.00, 1.37 to 26.96, 83.92, 1.34 distance 0.09 . VL 50.
+24-10-15 06:42:50 [INFO] phapmy failed SurvivalFly: tried to move: 26.30, 83.00, 1.81 -> 26.29, 83.50, 1.85, d=0.50 (vdistrel). VL 30.
+24-10-15 06:43:25 [INFO] Vinhp35 failed Passable: moved into a block ([blocktype]) from 0.51, 84.00, 10.14 to 0.55, 83.92, 10.14 distance 0.09 . VL 11.
+24-10-15 06:43:53 [INFO] Vinhp35 failed Passable: moved into a block ([blocktype]) from -2.81, 87.00, 15.51 to -2.84, 86.92, 15.48 distance 0.09 . VL 11.
+24-10-15 06:43:59 [INFO] Vinhp35 failed Passable: moved into a block ([blocktype]) from -0.14, 84.27, 15.27 to 0.00, 83.94, 15.24 distance 0.36 . VL 22.
+24-10-15 06:44:06 [INFO] Vinhp35 failed Passable: moved into a block ([blocktype]) from -4.19, 88.00, 15.57 to -4.22, 88.17, 15.71 distance 0.22 . VL 17.
+24-10-15 06:44:12 [INFO] Vinhp35 failed Passable: moved into a block ([blocktype]) from -2.90, 88.02, 17.90 to -2.94, 87.80, 18.06 distance 0.28 . VL 12.
+24-10-15 06:44:29 [INFO] Vinhp35 failed SurvivalFly: tried to move: 36.97, 83.50, -3.66 -> 36.95, 83.50, -3.74, d=0.08 (maxphase). VL 93.
+24-10-15 06:44:29 [INFO] Vinhp35 failed SurvivalFly: tried to move: 36.98, 83.50, -3.60 -> 36.96, 83.50, -3.75, d=0.15 (maxphase). VL 108.
+24-10-15 06:44:32 [INFO] Vinhp35 failed SurvivalFly: tried to move: 37.10, 83.50, -3.52 -> 37.19, 83.50, -3.50, d=0.08 (maxphase). VL 408.
+24-10-15 06:44:34 [INFO] phapmy failed SurvivalFly: tried to move: 28.80, 83.00, 2.36 -> 28.83, 83.50, 2.21, d=0.52 (vdistrel). VL 39.
+24-10-15 06:44:37 [INFO] Vinhp35 failed SurvivalFly: tried to move: 36.87, 83.50, -3.55 -> 36.69, 84.00, -3.56, d=0.53 (vdistrel+vdistsb+ychincfly+maxphase). VL 839.
+24-10-15 06:44:37 [INFO] phapmy failed SurvivalFly: tried to move: 32.71, 83.00, 1.39 -> 32.67, 83.50, 1.24, d=0.52 (vdistrel). VL 104.
+24-10-15 06:44:42 [INFO] Vinhp35 failed SurvivalFly: tried to move: 37.10, 83.50, -3.51 -> 37.19, 83.50, -3.49, d=0.09 (maxphase). VL 1283.
+24-10-15 06:44:44 [INFO] Vinhp35 failed SurvivalFly: tried to move: 36.87, 83.50, -3.54 -> 36.79, 84.00, -3.55, d=0.51 (vdistrel+vdistsb+ychincfly+maxphase). VL 1500.
+24-10-15 06:44:44 [INFO] (CONSOLE) Kicked Vinhp35 : Kicked for flying (or related)
+24-10-15 06:44:47 [WARNING] [MOVING] [Vinhp35]  TP PLUGIN (set back was overridden): Location{world=CraftWorld{name=world},x=27.470868391146634,y=84.0,z=-8.603228732859336,pitch=5.5502386,yaw=0.060890146}
+24-10-15 06:44:59 [INFO] Vinhp35 failed SurvivalFly: tried to move: 20.84, 83.00, 1.43 -> 21.02, 83.50, 1.14, d=0.60 (vdistrel). VL 30.
+24-10-15 06:45:01 [INFO] Vinhp35 failed SurvivalFly: tried to move: 22.03, 83.00, 1.35 -> 22.07, 83.50, 1.27, d=0.51 (vdistrel). VL 105.
+24-10-15 06:45:09 [INFO] Vinhp35 failed SurvivalFly: tried to move: 19.96, 83.00, 0.30 -> 20.04, 83.50, 0.23, d=0.51 (vdistrel). VL 59.
+24-10-15 06:45:27 [INFO] Vinhp35 failed Passable: moved into a block ([blocktype]) from -7.30, 88.00, 14.71 to -7.27, 88.00, 14.83 distance 0.12 . VL 11.
+24-10-15 06:45:32 [INFO] Vinhp35 failed Passable: moved into a block ([blocktype]) from -5.93, 88.00, 15.01 to -5.93, 88.00, 15.11 distance 0.09 . VL 17.
+24-10-15 06:45:35 [INFO] Vinhp35 failed Passable: moved into a block ([blocktype]) from -6.08, 88.00, 15.02 to -6.12, 88.00, 14.93 distance 0.10 . VL 50.
+24-10-15 06:45:40 [INFO] Vinhp35 failed Passable: moved into a block ([blocktype]) from -6.08, 88.00, 15.02 to -6.13, 88.00, 15.09 distance 0.10 . VL 94.
+24-10-15 06:45:45 [INFO] Vinhp35 failed Passable: moved into a block ([blocktype]) from -6.06, 88.00, 15.06 to -6.09, 88.00, 15.10 distance 0.06 . VL 80.
+24-10-15 06:45:48 [INFO] Vinhp35 failed Passable: moved into a block ([blocktype]) from -6.00, 88.00, 15.00 to -6.10, 88.00, 15.11 distance 0.15 . VL 44.
+24-10-15 06:45:50 [INFO] Vinhp35 failed Passable: moved into a block ([blocktype]) from -6.07, 88.00, 15.07 to -6.16, 88.00, 15.16 distance 0.13 . VL 53.
+24-10-15 06:47:02 [INFO] Vinhp35 failed Passable: moved into a block ([blocktype]) from 5.37, 83.00, 16.35 to 5.25, 83.00, 16.37 distance 0.12 . VL 10.
+24-10-15 06:47:06 [INFO] Vinhp35 failed Passable: moved into a block ([blocktype]) from 5.31, 83.00, 16.36 to 5.19, 83.00, 16.37 distance 0.12 . VL 50.
+24-10-15 06:47:11 [INFO] Vinhp35 failed Passable: moved into a block ([blocktype]) from 5.31, 83.00, 16.36 to 5.22, 83.00, 16.32 distance 0.10 . VL 93.
+24-10-15 06:47:16 [INFO] Vinhp35 failed Passable: moved into a block ([blocktype]) from 5.30, 83.00, 18.44 to 5.20, 83.00, 18.45 distance 0.10 . VL 123.
+24-10-15 08:37:22 [INFO] phapmy failed SurvivalFly: tried to move: 11.43, 84.06, -4.75 -> 11.39, 84.06, -4.73, d=0.05 (lowjump+vacc). VL 11.
+24-10-15 08:37:32 [INFO] phapmy failed SurvivalFly: tried to move: 11.55, 84.06, -4.80 -> 11.42, 84.06, -4.92, d=0.17 (lowjump+vacc). VL 15.

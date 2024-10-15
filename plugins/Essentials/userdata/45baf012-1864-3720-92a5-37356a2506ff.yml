@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: true
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1728974389978
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1728972632406
+  login: 1728972686223
+money: '0'
+last-account-name: JanGo
+logoutlocation:
+  world: f8a59545-0957-4745-bde2-2d14bdcfb794
+  world-name: world
+  x: 24.78280749384124
+  y: 84.0
+  z: -5.505139013288738
+  yaw: -161.339111328125
+  pitch: 16.65032386779785
+lastlocation:
+  world: f8a59545-0957-4745-bde2-2d14bdcfb794
+  world-name: world
+  x: 19.541942267311796
+  y: 84.0
+  z: -3.016278776426542
+  yaw: -118.74272918701172
+  pitch: 6.599970817565918

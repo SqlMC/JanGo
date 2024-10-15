@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1728973054746
+  login: 1728973032401
+money: '0'
+last-account-name: Natalie_Blick
+logoutlocation:
+  world: f8a59545-0957-4745-bde2-2d14bdcfb794
+  world-name: world
+  x: 27.897929628322085
+  y: 84.0
+  z: -8.759835378383285
+  yaw: 56.85673904418945
+  pitch: 73.0311508178711

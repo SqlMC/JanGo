@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1728970980743
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1728987229797
+  login: 1728987199745
+money: '0'
+last-account-name: phapmy
+lastlocation:
+  world: f8a59545-0957-4745-bde2-2d14bdcfb794
+  world-name: world
+  x: 23.98806214051867
+  y: 84.12872827828059
+  z: -1.7727944773218474
+  yaw: -60.60023880004883
+  pitch: 4.20000696182251
+logoutlocation:
+  world: f8a59545-0957-4745-bde2-2d14bdcfb794
+  world-name: world
+  x: 27.502536785225683
+  y: 84.0
+  z: -8.958098872280768
+  yaw: 3.210937023162842
+  pitch: 80.0999984741211

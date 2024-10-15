@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1728981826030
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1728983132246
+  login: 1728974687094
+money: '0'
+last-account-name: Vinhp35
+logoutlocation:
+  world: f8a59545-0957-4745-bde2-2d14bdcfb794
+  world-name: world
+  x: 27.49056156993736
+  y: 84.0
+  z: -4.07991781677869
+  yaw: 1.2004022598266602
+  pitch: -23.099721908569336
+lastlocation:
+  world: f8a59545-0957-4745-bde2-2d14bdcfb794
+  world-name: world
+  x: 27.583586658087548
+  y: 83.0
+  z: 10.913271607659414
+  yaw: 179.16094970703125
+  pitch: 5.999969482421875
